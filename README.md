@@ -13,10 +13,14 @@
 
 <h2>Objetivo</h2>
 
-    O conteúdo presente neste código, foi criado durante as aulas do curso de HTML e CSS: responsividade com mobile-first da plataforma Alura de cursos online, administrada pela professora Monica Hillman.
-    O foco do curso, se concentra em criar em um site responsivo com base no mobile (celular), utilizado pelas pessoas ao redor do mundo, vinte e quatro horas por dia!  
-    Não é 100% livre de falhas pelo verificador W3C, então certas classes aparecerão em locais estranhos ou faltando algo. Mexer no código, pode crashar tudo e sim eu tentei mudar certas coisas (quem sabe no futuro, eu possa mudar as incoerências?). 
-    Esta versão possuí uma mudança simples de cantos redondos, já que não há muita margem para mudanças, sem treinar um pouco mais e ficar mais apto a coisas que melhorem a página de web.
+    O conteúdo presente neste código, foi criado durante as aulas do curso de HTML e CSS: responsividade com mobile-first 
+    da plataforma Alura de cursos online,administrada pela professora Monica Hillman.
+    O foco do curso, se concentra em criar em um site responsivo com base no mobile (celular), utilizado pelas pessoas 
+    ao redor do mundo, vinte e quatro horas por dia!  
+    Não é 100% livre de falhas pelo verificador W3C, então certas classes aparecerão em locais estranhos ou faltando algo. 
+    Mexer no código, pode crashar tudo e sim eu tentei mudar certas coisas (quem sabe no futuro, eu possa mudar as incoerências?). 
+    Esta versão possuí uma mudança simples de cantos redondos, já que não há muita margem para mudanças, sem treinar um pouco 
+    mais e ficar mais apto a coisas que melhorem a página de web.
 
 <h2>Tecnologias</h2>
 
@@ -27,7 +31,8 @@
 
 <h2>Créditos</h2>
 
-    Código criado por Monica Hillman (https://github.com/MonicaHillman) e compartilhado com Américo Gonçalves Neto (https://github.com/AmericoGN), por meio do curso informado acima feito na plataforma Alura de cursos digitais.
+    Código criado por Monica Hillman (https://github.com/MonicaHillman) e compartilhado com Américo Gonçalves Neto (https://github.com/AmericoGN), 
+    por meio do curso informado acima feito na plataforma Alura de cursos digitais.
     Tenham um ótimo 2026! 
 
 <h2>Website:https://americogn.github.io/Alurabooks/</h2>
